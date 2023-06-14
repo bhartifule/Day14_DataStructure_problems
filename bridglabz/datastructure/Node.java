@@ -1,6 +1,7 @@
 package com.bridglabz.datastructure;
 
-public class Node<T> {
+public class Node<T>
+{
 	T key;
     Node<T> next;
     
